@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 31 37" width="31" height="37">
+	<defs>
+		<image width="31" height="37" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB8AAAAlCAMAAACNkcLAAAAAAXNSR0IB2cksfwAAAQVQTFRF////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////n2R+fwAAAFd0Uk5TAAWN4urlnQpU8v/1anX5hnD4ggiMREGLDprkVaUSVlOY7evwru9ZV+68HMBY8cwkHsFvgM0lvvRGZvZ6yb2398cdxbjDIx+2JrO/tRu0FsIRGRCe4agYAvYdtAAAAQVJREFUeJzt0elSwjAUBeCjrVIuIuCGoiKKUCkgrYrghgqCC7iD7/8oNL0j0zTtCzjeP0nON7mZJICv5uY1fWExhqgy4kSUWIr0ZML15VSkp4VnVv79L/lqem091DeyyU0gtkWU2w5xQyPa2UXWjUjPK76nCyhgXwx0kA+44TEVceiNVCpLbh5xXIFV5Vmx5nOzzuFxA7AdntdNnHh+inKco7OmOMo651WrfSHyy6t2i4PrBt/EuuG11hFwe5eTGbivkFrdGbsdego/9P2PPHgMsPMk/8LgWeKXALvXHPp3N9XPtTszrvZVBkavv7vtMAbe+Ih3K5yBD9HB+Yxi4Ot7PPmRkin05STE+z/vYAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Home">
+		<g id="MAIN BLOKS">
+			<g id="block!">
+				<g id="BT2">
+					<use id="Color Fill 2" href="#img1" x="0" y="0" />
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 34" width="35" height="34">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #6d6f7e;paint-order:stroke fill markers;stroke-linecap:round;stroke-linejoin:round;stroke-width: 8 } 
+	</style>
+	<g id="TOP MENU">
+		<g id="SUPPORT">
+			<path id="Эллипс 4" class="shp0" d="M17.5 4C24.96 4 31 9.37 31 16C31 18.88 29.86 21.52 27.96 23.59C27.96 24.48 28 30 28 30C28 30 24.43 28.36 22.16 27.27C20.71 27.74 19.14 28 17.5 28C10.04 28 4 22.63 4 16C4 9.37 10.04 4 17.5 4Z" />
+		</g>
+	</g>
+</svg>

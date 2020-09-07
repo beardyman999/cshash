@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 37 37" width="37" height="37">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #6d6f7e;paint-order:stroke fill markers;stroke-linecap:round;stroke-width: 8 } 
+		.shp1 { fill: none;stroke: #6d6f7e;stroke-linecap:round;stroke-width: 4 } 
+		.shp2 { fill: none;stroke: #6d6f7e;stroke-linecap:round;stroke-linejoin:round;stroke-width: 4 } 
+	</style>
+	<g id="TOP MENU">
+		<g id="FAQ">
+			<g id="Группа 3">
+				<path id="Эллипс 3" class="shp0" d="M18.85 4.45C26.58 4.45 32.85 10.72 32.85 18.45C32.85 26.19 26.58 32.45 18.85 32.45C11.12 32.45 4.85 26.19 4.85 18.45C4.85 10.72 11.12 4.45 18.85 4.45Z" />
+				<path id="Фигура 5" class="shp1" d="M17 8L21 8L21 12L17 12L17 8Z" />
+				<path id="Фигура 4" class="shp2" d="M17 14L21 14L21 28L17 28L17 14Z" />
+			</g>
+		</g>
+	</g>
+</svg>

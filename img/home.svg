@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 36 38" width="36" height="38">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: none;stroke: #ffffff;paint-order:stroke fill markers;stroke-width: 8 } 
+	</style>
+	<g id="TOP MENU">
+		<g id="Home active">
+			<path id="Фигура 3" class="shp0" d="M4 34L4 12L18 5L32 12L32 34L24 34L24 26C24 26 21 22.03 18 22C15 21.97 12 26 12 26L12 34L4 34Z" />
+		</g>
+	</g>
+</svg>
